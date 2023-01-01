@@ -5,7 +5,6 @@ authors:
     given-names: Horea-Alexandru
     orcid: 
 title: "Multi-body modeling of robot dynamics and system identification during MPC, Research Software"
-howpublished: "https://github.com/nashmit/thesis-scientific-computing"
 version: 0.6
 doi:
 date-released: 2022-12-30
